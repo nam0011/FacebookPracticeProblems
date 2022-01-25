@@ -1,7 +1,4 @@
-package StudyQuestions.ContiguousSubarrays;
-
-import java.io.*;
-import java.util.*;
+package StudyQuestions.Arrays.ContiguousSubarrays;
 
 public class Main {
     // Add any helper functions you may need here
